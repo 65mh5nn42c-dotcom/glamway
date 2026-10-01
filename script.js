@@ -105,7 +105,7 @@ const products = [
 بدون +
 */
 
-const whatsappNumber = "963981782882";
+const whatsappNumber = "963981792882";
 
 
 /* =====================================
